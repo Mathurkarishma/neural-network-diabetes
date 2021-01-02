@@ -1,7 +1,4 @@
-#DATA 630
-#Assignment 4
-#Written by Karishma Mathur
-#Due July 21, 2020
+#This script will show how to explore the dataset and create a neural network model
 
 #Set working directory
 #Import file
